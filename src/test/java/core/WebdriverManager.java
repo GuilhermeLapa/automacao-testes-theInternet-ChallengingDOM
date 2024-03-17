@@ -18,10 +18,10 @@ public class WebdriverManager {
 		switch (nomeBrowser) {
 			case Chrome:
 				//instanciamos o driver como um driver do Chrome Browser
-				driver= new ChromeDriver(ChromeDriverManager.criarDriver());
+				driver= new ChromeDriver(ChromeDriverManager.criarDriverOptions());
 				break;
 			/*case Firefox:
-				driver= new FirefoxDriver(GeckoDriverManager.criarDriver());
+				driver= new FirefoxDriver(GeckoDriverManager.criarDriverOptions());
 				break;*/
 			default:
 				break;

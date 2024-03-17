@@ -24,3 +24,6 @@ Projeto de automação de testes com framework **Selenium Webdriver**. Foram des
 - Clique no botão **Finish**.
 <br/>
 <br/>
+
+###### Versões: Java 17.0.9 2023-10-17 LTS ; Selenium Webdriver 4.18.1 ; Junit 4.13.2 ; Cucumber 7.15.0 ; Chrome Browser 122.0.6261.129
+<br/>

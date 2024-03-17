@@ -1,0 +1,22 @@
+{
+	"botaoAzul": {
+		"tipoSeletor": "XPATH",
+		"seletor": "//div[@class='large-2 columns']/a[1]"
+	},
+	"botaoVermelho": {
+		"tipoSeletor": "XPATH",
+		"seletor": "//div[@class='large-2 columns']/a[2]"
+	},
+	"botaoVerde": {
+		"tipoSeletor": "XPATH",
+		"seletor": "//div[@class='large-2 columns']/a[3]"
+	},
+	"listaRegistros": {
+		"tipoSeletor": "XPATH",
+		"seletor": "//table//tbody/tr"
+	},
+	"listaCabecalho": {
+		"tipoSeletor": "XPATH",
+		"seletor": "//table//thead/tr/th"
+	}
+}
